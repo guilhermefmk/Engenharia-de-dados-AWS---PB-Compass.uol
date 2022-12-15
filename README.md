@@ -8,8 +8,8 @@ Neste repositório estão todas as atividades por mim desenvolvidas no programa 
 * Sprint 3 - Computação em nuvem para processamento de dados
 * Sprint 4 - Arquitetura Lambda, Apache Spark e Apache Hadoop
 * Sprint 5 - Apache Spark Streaming
-* Sprint 6 - Power BI e [Desafio XPTO](https://github.com/guilhermefmk/Engenharia-de-dados-AWS---Projeto-final)
+* Sprint 6 - Power BI e [Desafio XPTO](https://github.com/guilhermefmk/Analise_de_sentimentos_twitter)
 
 ## Projeto final
 
-O projeto final está no seguinte link [Desafio XPTO](https://github.com/guilhermefmk/Engenharia-de-dados-AWS---Projeto-final)
+O projeto final está no seguinte link [Desafio XPTO](https://github.com/guilhermefmk/Analise_de_sentimentos_twitter)
