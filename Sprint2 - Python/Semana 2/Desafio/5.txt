@@ -1,0 +1,6 @@
+Actor Harrison Ford 
+Total Gross 4871.7 
+Number of Movies 41 
+Average per Movie 118.8 
+#1 Movie Star Wars: The Force Awakens 
+Gross 936.7 

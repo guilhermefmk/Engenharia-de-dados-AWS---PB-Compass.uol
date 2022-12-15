@@ -1,0 +1,6 @@
+Actor Anthony Daniels 
+Total Gross 3162.9 
+Number of Movies 7 
+Average per Movie 451.8 
+#1 Movie Star Wars: The Force Awakens 
+Gross 936.7 

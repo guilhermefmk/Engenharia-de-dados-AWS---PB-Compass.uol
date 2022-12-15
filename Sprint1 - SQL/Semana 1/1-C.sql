@@ -1,0 +1,4 @@
+SELECT VENDAS.CdVdd, VENDEDOR.NmVdd, SUM(VENDAS.Qtd * VENDAS.VrUnt) * (VENDEDOR.PercComissao/10) AS Comissao  FROM TbVendas VENDAS
+INNER JOIN TbVendedor VENDEDOR
+ON VENDAS.CdVdd = VENDEDOR.CdVdd AND VENDAS.status NOT IN ('Em aberto','Cancelado')
+GROUP BY VENDAS.CdVdd;

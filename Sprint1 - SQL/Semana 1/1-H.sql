@@ -1,0 +1,1 @@
+SELECT * FROM TbVendas WHERE deletado = 1;

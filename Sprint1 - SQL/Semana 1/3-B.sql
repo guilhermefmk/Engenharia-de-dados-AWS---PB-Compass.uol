@@ -1,0 +1,1 @@
+SELECT Titulo,Valor FROM LIVRO ORDER BY valor DESC LIMIT 10;

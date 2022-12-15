@@ -1,0 +1,50 @@
+Robin Williams 49.0
+Bruce Willis 60.0
+Owen Wilson 39.0
+Brad Pitt 40.0
+Michael Caine 58.0
+Jeremy Renner 21.0
+Bradley Cooper 25.0
+Scarlett Johansson 37.0
+Idris Elba 26.0
+Andy Serkis 23.0
+Daniel Radcliffe 17.0
+Julia Roberts 42.0
+Ben Stiller 37.0
+Dustin Hoffman 43.0
+Robert DeNiro 79.0
+Tommy Lee Jones 46.0
+Eddie Murphy 38.0
+Adam Sandler 32.0
+Ralph Fiennes 36.0
+Ian McKellen 31.0
+Samuel L. Jackson 69.0
+Stellan Skarsgard 43.0
+Will Smith 24.0
+Mark Wahlberg 36.0
+Harrison Ford 41.0
+Elizabeth Banks 35.0
+Stanley Tucci 50.0
+Cameron Diaz 34.0
+Jonah Hill 29.0
+Morgan Freeman 61.0
+Anthony Daniels 7.0
+Liam Neeson 63.0
+Helena Bonham Carter 36.0
+Tom Cruise 36.0
+Tom Hanks 44.0
+Orlando Bloom 17.0
+Leonardo DiCaprio 25.0
+Robert Downey Jr. 53.0
+Woody Harrelson 50.0
+Philip Seymour Hoffman 40.0
+Emma Watson 17.0
+Matt Damon 39.0
+Chris Evans 23.0
+Cate Blanchett 39.0
+Don Cheadle 34.0
+Anne Hathaway 40.0
+Jim Carrey 27.0
+Sandra Bullock 35.0
+Gary Oldman 38.0
+Johnny Depp 45.0
